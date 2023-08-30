@@ -1,3 +1,0 @@
-PORT=3000
-DB=mongodb+srv://Per:Hunedoara@cluster0.4ch8y.mongodb.net/messageboard2?retryWrites=true&w=majority
-# NODE_ENV=test
